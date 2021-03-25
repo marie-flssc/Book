@@ -1,12 +1,10 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using TestApplication.Data;
-using TestApplication.DTO;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
-using TestApplication.Models;
-using DTO;
+using Book_Hw.Data;
+using Book.DTO;
 
 namespace TestApplication.Controllers
 {
