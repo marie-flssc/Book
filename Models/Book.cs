@@ -5,10 +5,8 @@ namespace Book_Hw
 {
     public class Book
     {
-        [Key]
-
-        public int Id { get; set; }
-
-        public string Name { get; set; }
+        public int id { get; set; }
+        public decimal price { get; set; }
+        public string isbn { get; set; }
     }
 }

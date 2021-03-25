@@ -4,10 +4,10 @@ namespace Book_Hw
 {
     public class Book_description
     {
-        public int Id { get; set; }
-
-        public string Name { get; set; }
-
-        public int Price { get; set; }
+        [Key]
+        public int id { get; set; }
+        public int book_id { get; set; }
+        public string book_name { get; set; }
+        public string book_description { get; set; }
     }
 }
