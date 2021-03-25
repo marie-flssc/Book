@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lQ2zPdsvjiHcCnQFEkIp+nzxnjVC2LjWN25vUMry4Cu+NJ8P29qle8PWsR6XhO/A/oBA/NhACy+KtXet9kkFUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\flois\\source\\repos\\Book_Hw\\Book_Hw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flois\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\flois\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\flois\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\flois\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\flois\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\flois\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
