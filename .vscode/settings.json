@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/4bee8c7b-3f21-4a14-b8c8-cdb55c1b0146/resourceGroups/dorset/providers/Microsoft.Web/sites/bookmacbook"
+}
