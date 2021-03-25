@@ -4,7 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Book_Hw.Data;
-using Book.DTO;
+using Book_Hw.DTO;
+using Book_Hw.Models;
 
 namespace TestApplication.Controllers
 {

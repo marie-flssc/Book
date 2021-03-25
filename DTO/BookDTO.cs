@@ -1,8 +1,8 @@
-using Models;
+using System.ComponentModel.DataAnnotations;
 
-namespace Book.DTO
+namespace Book_Hw.DTO
 {
-    public class BookDTO : Library
+    public class BookDTO 
     {
         [Key]
         public int Id { get; set; }

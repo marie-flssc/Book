@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Book.DTO
+namespace Book_Hw.DTO
 {
     public class AddBook
     {

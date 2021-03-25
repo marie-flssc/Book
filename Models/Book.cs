@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace Book_Hw
+namespace Book_Hw.Models
 {
     public class Book
     {
