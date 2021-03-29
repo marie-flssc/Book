@@ -27,3 +27,7 @@ C:\Users\flois\source\repos\Book_Hw\obj\Debug\net5.0\Book_Hw.dll
 C:\Users\flois\source\repos\Book_Hw\obj\Debug\net5.0\ref\Book_Hw.dll
 C:\Users\flois\source\repos\Book_Hw\obj\Debug\net5.0\Book_Hw.pdb
 C:\Users\flois\source\repos\Book_Hw\obj\Debug\net5.0\Book_Hw.genruntimeconfig.cache
+C:\Users\flois\source\repos\Book_Hw\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\flois\source\repos\Book_Hw\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\flois\source\repos\Book_Hw\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\flois\source\repos\Book_Hw\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll

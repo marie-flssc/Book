@@ -7,7 +7,7 @@ using Book_Hw.Data;
 using Book_Hw.DTO;
 using Book_Hw.Models;
 
-namespace TestApplication.Controllers
+namespace Book_Hw.Controllers
 {
     [ApiController]
     [Route("[controller]")]
